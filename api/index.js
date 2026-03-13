@@ -1,3 +1,3 @@
-import debug from '../debug.js';
+import app from '../server.js';
 
-export default debug;
+export default app;
